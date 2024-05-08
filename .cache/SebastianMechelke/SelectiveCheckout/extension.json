@@ -11,11 +11,317 @@
   "extensionName": "SelectiveCheckout",
   "displayName": "Selective Checkout",
   "flags": 2308,
-  "lastUpdated": "2024-05-06T21:10:24.13Z",
+  "lastUpdated": "2024-05-07T15:55:50.563Z",
   "publishedDate": "2024-01-06T23:39:29.507Z",
   "releaseDate": "2024-01-07T17:25:41.963Z",
   "shortDescription": "A build task that can be used to only checkout a specific folder from a git repository.",
   "versions": [
+    {
+      "version": "0.2.17",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T15:55:50.56Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.17/1715097217950/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.17/1715097217950/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.17/1715097217950",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.17/assetbyname"
+    },
+    {
+      "version": "0.2.16",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T15:50:20.223Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.16/1715096888259/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.16/1715096888259/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.16/1715096888259",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.16/assetbyname"
+    },
+    {
+      "version": "0.2.15",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T15:45:40.537Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.15/1715096609647/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.15/1715096609647/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.15/1715096609647",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.15/assetbyname"
+    },
+    {
+      "version": "0.2.14",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T15:38:18.103Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.14/1715096164132/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.14/1715096164132/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.14/1715096164132",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.14/assetbyname"
+    },
+    {
+      "version": "0.2.13",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T15:33:31.257Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.13/1715095878518/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.13/1715095878518/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.13/1715095878518",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.13/assetbyname"
+    },
+    {
+      "version": "0.2.12",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T15:15:40.337Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.12/1715094809016/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.12/1715094809016/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.12/1715094809016",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.12/assetbyname"
+    },
+    {
+      "version": "0.2.11",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T11:38:30.147Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.11/1715081777628/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.11/1715081777628/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.11/1715081777628",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.11/assetbyname"
+    },
+    {
+      "version": "0.2.10",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T11:25:44.99Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.10/1715081014070/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.10/1715081014070/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.10/1715081014070",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.10/assetbyname"
+    },
+    {
+      "version": "0.2.9",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T11:13:07.087Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.9/1715080253634/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.9/1715080253634/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.9/1715080253634",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.9/assetbyname"
+    },
+    {
+      "version": "0.2.8",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T11:06:48.69Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.8/1715079877047/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.8/1715079877047/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.8/1715079877047",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.8/assetbyname"
+    },
+    {
+      "version": "0.2.7",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T11:01:37.903Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.7/1715079566922/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.7/1715079566922/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.7/1715079566922",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.7/assetbyname"
+    },
+    {
+      "version": "0.2.6",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T09:53:48.01Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.6/1715075496438/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.6/1715075496438/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.6/1715075496438",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.6/assetbyname"
+    },
+    {
+      "version": "0.2.5",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T09:48:30.803Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.5/1715075177802/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.5/1715075177802/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.5/1715075177802",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.5/assetbyname"
+    },
+    {
+      "version": "0.2.4",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T09:32:47.54Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.4/1715074234711/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.4/1715074234711/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.4/1715074234711",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.4/assetbyname"
+    },
+    {
+      "version": "0.2.3",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T09:17:46.483Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.3/1715073334532/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.3/1715073334532/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.3/1715073334532",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.3/assetbyname"
+    },
+    {
+      "version": "0.2.2",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T08:14:13.27Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.2/1715069521534/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.2/1715069521534/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.2/1715069521534",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.2/assetbyname"
+    },
+    {
+      "version": "0.2.1",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T06:52:41.167Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.1/1715064628923/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.1/1715064628923/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.2.1/1715064628923",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.2.1/assetbyname"
+    },
+    {
+      "version": "0.0.68",
+      "flags": 1,
+      "lastUpdated": "2024-05-07T06:31:59.297Z",
+      "files": [
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VsixManifest",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.0.68/1715063388433/Microsoft.VisualStudio.Services.VsixManifest"
+        },
+        {
+          "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+          "source": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.0.68/1715063388433/Microsoft.VisualStudio.Services.VSIXPackage"
+        }
+      ],
+      "assetUri": "https://sebastianmechelke.gallerycdn.vsassets.io/extensions/sebastianmechelke/selectivecheckout/0.0.68/1715063388433",
+      "fallbackAssetUri": "https://sebastianmechelke.gallery.vsassets.io/_apis/public/gallery/publisher/SebastianMechelke/extension/SelectiveCheckout/0.0.68/assetbyname"
+    },
     {
       "version": "0.0.67",
       "flags": 1,
