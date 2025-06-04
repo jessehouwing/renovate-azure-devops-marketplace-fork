@@ -1,0 +1,19 @@
+name: Demo Sparse
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sparse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@4
+        with:
+          sparse-checkout: |
+            docs
+            .github
+
+  full:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@4
